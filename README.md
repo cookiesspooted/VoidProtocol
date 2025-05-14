@@ -1,7 +1,7 @@
 # VoidProtocol
 
 **Version :** 1.0 (Draft)  
-**Auteur :** [7ka1](https://github.com/7ka1)  
+**Auteur :** [7ka1](https://github.com/cookiesspooted)  
 **Statut :** En développement  
 **Type :** Protocole de chiffrement symétrique confidentiel et sécurisé
 
